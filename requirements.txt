@@ -5,3 +5,8 @@ matplotlib
 seaborn
 torch
 ipykernel
+torchmetrics
+torchvision
+tqdm
+plotly
+mlxtend
